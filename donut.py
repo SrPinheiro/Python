@@ -1,4 +1,4 @@
-import numpy as n
+import numpy as np
 screen_size = 40
 theta_spacing = 0.07
 phi_spacing = 0.02
