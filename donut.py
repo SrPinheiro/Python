@@ -62,5 +62,6 @@ if __name__ == "__main__":
     for _ in range(screen_size * screen_size):
         A += theta_spacing
         B += phi_spacing
+        print('Instituto federal - Leonardo Pinheiro')
         print("\x1b[H")
         pprint(render_frame(A, B))
